@@ -1,4 +1,4 @@
-#Space Invaders
+# Space Invaders
 Thank you for installing space invaders!
 
 Requirements:
